@@ -7,3 +7,14 @@ body{
     margin: 0;
     padding: 0;
 }
+
+/* header css */
+.text{
+    color: black;
+    text-shadow: 2px 2px #ff0000;
+}
+.menu:hover{
+    background-color: #4ab4d5;
+    border-radius: 10px;
+    border-left: 5px solid #1c1c1c;
+    border-right: 5px solid #1c1c1c;
